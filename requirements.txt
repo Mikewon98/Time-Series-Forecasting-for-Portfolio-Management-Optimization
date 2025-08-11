@@ -6,3 +6,6 @@ statsmodels
 matplotlib
 seaborn
 ipykernel
+Cython
+pmdarima
+setuptools
